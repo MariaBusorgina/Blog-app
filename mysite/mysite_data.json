@@ -1,0 +1,1270 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-04-09T06:58:40.328Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Первый пост",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-04-09T07:42:03.289Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Первый пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-04-09T07:42:10.732Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Второй пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-04-09T08:48:09.097Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Второй пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-04-10T07:25:18.745Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Что такое Git и зачем он нужен?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-04-10T07:28:15.222Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Что такое Git и зачем он нужен?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-04-10T11:08:50.219Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "admin",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-04-10T11:10:55.867Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "Anna",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-04-10T11:11:12.447Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "Anna",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-04-10T11:13:11.210Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Что такое Git и что такое GitHub",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-04-10T11:15:44.699Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Первый пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-04-10T11:15:49.986Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Второй пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-04-10T11:17:08.579Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "Alex",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-04-10T11:17:12.847Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "Alex",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-04-10T11:21:51.993Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Установка Git",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-04-10T11:25:13.955Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Работа в репозитории",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-04-10T11:33:33.351Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Создание веток и переключение между ними",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-04-11T16:48:46.807Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "гит",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-04-11T16:49:55.158Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "СКВ",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-04-11T17:08:20.504Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "git",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0427\\u0442\\u043e \\u0442\\u0430\\u043a\\u043e\\u0435 Git \\u0438 \\u0447\\u0442\\u043e \\u0442\\u0430\\u043a\\u043e\\u0435 GitHub tagged with git\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-04-11T17:09:03.031Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "git",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0423\\u0441\\u0442\\u0430\\u043d\\u043e\\u0432\\u043a\\u0430 Git tagged with git\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-04-12T09:09:35.450Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-04-15T09:12:30.504Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Создание веток и переключение между ними",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-04-15T09:13:30.018Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Создание веток и переключение между ними",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-04-15T10:08:14.278Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Работа в репозитории",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-04-15T10:08:52.211Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Работа в репозитории",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-04-15T10:09:22.885Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Работа в репозитории",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-04-15T10:09:55.436Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Работа в репозитории",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-04-15T10:11:31.176Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Установка Git",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-04-15T10:13:10.091Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Что такое Git и зачем он нужен?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-04-15T10:13:35.598Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Что такое Git и зачем он нужен?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-04-15T10:14:09.710Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Что такое Git и зачем он нужен?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-04-15T10:14:52.191Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Что такое Git и зачем он нужен?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-04-15T10:17:11.497Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Создание веток и переключение между ними",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-04-15T10:17:29.565Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Работа в репозитории",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-04-15T10:19:13.646Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Что такое Git и что такое GitHub",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2024-04-15T10:30:54.668Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2024-04-15T10:32:13.680Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Первый пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2024-04-15T10:32:26.984Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Второй пост",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$OX0xqUBWPFFfUsqsDjb6h1$L14FtuAgr8uVM1IgnnNabodS0cIc75wjgFhCRwUc6bU=",
+    "last_login": "2024-04-15T08:57:05.752Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "Алекс",
+    "last_name": "",
+    "email": "admin@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-09T06:51:13Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$LnEHBjl5Xqafk7FVhs4uxv$BHiK3K8Gj4dx7zePlNsL+9SrH/+c0W/WHnX2hQD5XzE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Anna",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-10T11:10:55Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$1VbVyumIffTfETFzbv0KVO$+cN0cYfvoCQcukA1Z5kC1E9pe1rAwDye7DeN2n8SLDU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Alex",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-10T11:17:08Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "67oejyts7ja5wk8nmhsjl5q5ouyjvnm0",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAYmEpcuvcMZAYYqRqalHZlvLtt0oVu33v_v1Wkdalx7WWOY1YXZdXplzGlZ2m7yA9q90mnqS3zyHpP9GG7vk25vK5H-3dQqddtHQIgU2A6F4-GRXJyDMPGwLAP4rBYcJCL-IFA0CeW4KwBg-TBovp8Afa4N-I:1ru5KU:z7gD-yDHMWXN3MZQh7_zHoXVujbwSgAD_6DhvFdKnf0",
+    "expire_date": "2024-04-23T06:51:38.669Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hrj3zxiuf7ziat3xwk3g7hrcsfe7k9jb",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAYmEpcuvcMZAYYqRqalHZlvLtt0oVu33v_v1Wkdalx7WWOY1YXZdXplzGlZ2m7yA9q90mnqS3zyHpP9GG7vk25vK5H-3dQqddtHQIgU2A6F4-GRXJyDMPGwLAP4rBYcJCL-IFA0CeW4KwBg-TBovp8Afa4N-I:1rwI9B:8o_v8c4dw8ZJx7WfBoSm2ek1XqendpOewjz9_CdRa8g",
+    "expire_date": "2024-04-29T08:57:05.756Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "z3ysac2z0sqmlfup4igmwupc2xhzw18t",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAYmEpcuvcMZAYYqRqalHZlvLtt0oVu33v_v1Wkdalx7WWOY1YXZdXplzGlZ2m7yA9q90mnqS3zyHpP9GG7vk25vK5H-3dQqddtHQIgU2A6F4-GRXJyDMPGwLAP4rBYcJCL-IFA0CeW4KwBg-TBovp8Afa4N-I:1ruRuF:rjQ8fwlLYgsvfdacBp8gH8syFDpvKWQVnUcdpx_VIQE",
+    "expire_date": "2024-04-24T06:58:03.151Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Первый пост",
+    "slug": "pervyj-post",
+    "author": 1,
+    "body": "Это первый пост в новом блоге.",
+    "publish": "2024-04-09T06:57:18Z",
+    "created": "2024-04-09T06:58:40.327Z",
+    "updated": "2024-04-15T10:32:13.676Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Второй пост",
+    "slug": "vtoroj-post",
+    "author": 1,
+    "body": "Это второй пост.",
+    "publish": "2024-04-09T07:23:48Z",
+    "created": "2024-04-09T07:23:56.921Z",
+    "updated": "2024-04-15T10:32:26.979Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Что такое Git и зачем он нужен?",
+    "slug": "chto-takoe-git-i-zachem-on-nuzhen",
+    "author": 1,
+    "body": "Git — один из видов систем контроля версий (или СКВ). Такие системы записывают изменения в набор файлов, а позже позволяют вернуться к определенной версии.\r\nВам может пригодиться СКВ, если вы, например, программист, системный администратор, дизайнер (или в целом работаете с массивом изменяющихся файлов) и хотите сохранить каждую версию проекта. Вы сможете вернуться к любому из сохраненных состояний, просмотреть изменения и увидеть их авторов. Так гораздо проще исправлять возникающие проблемы.\r\n\r\nВ целом СКВ можно разделить таким образом:\r\n\r\n* `Локальные` — все файлы хранятся только в вашей операционной системе, например, разложены по папкам с версиями.  \r\n* `Централизованные` — проект хранится на сервере, а ваша рабочая версия включает только текущий набор файлов.  \r\n* `Распределенные` — копии проекта (и вся информация о версиях) располагаются не только на сервере, но и на нескольких клиентских машинах, чтобы обеспечить устойчивость к отказу сервера.  \r\n\r\nОчевидно, что Git — не единственная система контроля версий, однако по многим параметрам самая удобная и популярная на сегодняшний день. Благодаря распределенной структуре репозитории Git хранятся на всех клиентских компьютерах, что защищает от потерь данных и позволяет полноценно управлять версиями проекта оффлайн.\r\n\r\nГлавная отличительная черта Git состоит в подходе к обработке данных. Каждый раз при сохранении данных проекта (коммите) система фиксирует состояние файла (делает снимок) и создает ссылку на этот снимок. Последующие изменения отражаются через ссылки на более ранние версии файла. Нет необходимости снова сохранять файл целиком. К тому же, основываясь на контрольных hash-суммах, система снимков обеспечивает целостность всей истории изменений. На практике это означает, что невозможно (либо крайне трудно) полностью удалить данные из рабочего каталога и утратить к ним любой доступ. В большинстве случаев данные можно восстановить из ранней версии проекта.\r\n\r\nТаким образом, систему контроля версий в Git проще всего представлять как поток снимков (сохраненных состояний проекта).",
+    "publish": "2024-04-10T07:23:26Z",
+    "created": "2024-04-10T07:25:18.740Z",
+    "updated": "2024-04-15T10:14:52.188Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Что такое Git и что такое GitHub",
+    "slug": "chto-takoe-git-i-chto-takoe-github",
+    "author": 2,
+    "body": "**Git** — это бесплатная распределенная система контроля версий с открытым исходным кодом, которая обрабатывает изменения кода в программных проектах любого размера. Git позволяет нескольким разработчикам одновременно работать над одним проектом.\r\n\r\nВ свою очередь **GitHub** — это компания, которая предлагает облачное хранилище, позволяющее разработчикам хранить свой код и управлять им, а также отслеживать изменения кода и контролировать их. Вы можете использовать Git без GitHub, но вы не можете использовать GitHub без Git.",
+    "publish": "2024-04-10T11:12:40Z",
+    "created": "2024-04-10T11:13:11.208Z",
+    "updated": "2024-04-15T10:19:13.643Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Установка Git",
+    "slug": "ustanovka-git",
+    "author": 3,
+    "body": "Прежде чем использовать Git, вы должны установить его на своём компьютере. Даже если он уже установлен, наверное, это хороший повод, чтобы обновиться до последней версии. Вы можете установить Git из собранного пакета или другого установщика, либо скачать исходный код и скомпилировать его самостоятельно.\r\n\r\n### Установка в Linux\r\nЕсли вы хотите установить Git под Linux как бинарный пакет, это можно сделать, используя обычный менеджер пакетов вашего дистрибутива. Если у вас Fedora (или другой похожий дистрибутив, такой как RHEL или CentOS), можно воспользоваться dnf:  \r\n`$ sudo dnf install git-all`\r\n\r\nЕсли же у вас дистрибутив, основанный на Debian, например, Ubuntu, попробуйте apt:  \r\n`$ sudo apt install git`\r\n\r\nЧтобы воспользоваться дополнительными возможностями, посмотрите инструкцию по установке для нескольких различных разновидностей Unix на сайте Git https://git-scm.com/download/linux.\r\n\r\n### Установка на Mac\r\nСуществует несколько способов установки Git на Mac. Самый простой — установить Xcode Command Line Tools. В версии Mavericks (10.9) и выше вы можете добиться этого просто первый раз выполнив 'git' в терминале.  \r\n`$ git --version`\r\n\r\nЕсли Git не установлен, вам будет предложено его установить.\r\n\r\nЕсли Вы хотите получить более актуальную версию, то можете воспользоваться бинарным установщиком. Установщик Git для OS X доступен для скачивания с сайта Git https://git-scm.com/download/mac.",
+    "publish": "2024-04-10T11:20:17Z",
+    "created": "2024-04-10T11:21:51.992Z",
+    "updated": "2024-04-15T10:11:31.162Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Работа в репозитории",
+    "slug": "rabota-v-repozitorii",
+    "author": 3,
+    "body": "### Как правило, есть два варианта начать работу с репозиторием Git:\r\n\r\n1. Можно выбрать локальный каталог и создать новый репозиторий в нем.\r\n2. Можно клонировать существующий репозиторий с локального компьютера или сервера. \r\n\r\nОбычно проекты клонируются именно с сервера.\r\nЕсли у вас на компьютере уже есть рабочий проект, но еще не назначен контроль версий, то нужно сначала перейти в каталог проекта.\r\n\r\nLinux:  \r\n`> cd /home/user/SomeConsoleApp`\r\n\r\nmacOS:  \r\n`> cd /Users/user/SomeConsoleApp`\r\n\r\nWindows:  \r\n`> cd C:/Users/user/SomeConsoleApp`\r\n\r\nИнициализируем репозиторий:  \r\n`> git init`\r\n\r\nКоманда создаст каталог с именем .git, в котором будут храниться структурные файлы репозитория. \r\n\r\nИ, наконец, нужно добавить под контроль версий все существующие файлы командой git add . (точка в конце важна!). Можно добавлять и по одному файлу, с помощью git add <имя файла>. \r\n\r\nЗаодно создадим начальный коммит командой git commit. \r\n`> git add readme.md`\r\n`> git commit -m 'Initial project version'`\r\n\r\nКоманду git add можно гибко настраивать с помощью дополнительных параметров (флагов), которые подробно описаны в официальной документации: https://git-scm.com/docs/git-add. К примеру, команда git add —force добавит даже игнорируемые файлы, а git add —update позволит обновить отслеживаемые файлы.\r\n\r\nВ этом репозитории вы можете продолжать работать и дальше, со временем обновляя его и отправляя рабочие версии на сервер.",
+    "publish": "2024-04-10T11:23:58Z",
+    "created": "2024-04-10T11:25:13.954Z",
+    "updated": "2024-04-15T10:17:29.562Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Создание веток и переключение между ними",
+    "slug": "sozdanie-vetok-i-pereklyuchenie-mezhdu-nimi",
+    "author": 2,
+    "body": "### Создание новой ветки\r\n\r\nПервая ветка в репозитории git называется `master` — она является основной в проекте. Создание новой ветки означает создание копии проекта в определенный момент времени. Ветки позволяют внедрять новые функции при разработке, не внося изменения сразу в основную. Распространенным методом создания новой ветки является выполнение команды:\r\n\r\n`git branch [название новой ветки]`\r\n\r\n## Переключение между ветками\r\n\r\nНаличие нескольких веток в проекте Git дает разработчикам тестовую среду для отслеживания прогресса, не затрагивая рабочую версию продукта. Git позволяет легко переключаться между ветками с помощью команды checkout:\r\n\r\n`git checkout [название ветки]`\r\nПросто пропишите название нужной ветки, к которой хотите получить доступ.\r\n\r\n## Переименование локальной или удаленной ветки\r\n\r\nВ Git вы можете переименовать локальную или удаленную ветку. Для переименования локальной используйте команду:\r\n\r\n`git branch -m новое название`\r\n\r\nПереименовать удаленную ветку напрямую невозможно. Нужно сначала удалить старое название, а затем отправить новое имя ветки в удаленный репозиторий.\r\n\r\n## Удаление локальной или удаленной ветки\r\n\r\nВетку можно удалить после объединения с основной, или если она была повреждена. Удалять можно как локальные, так и удаленные ветки.\r\n\r\nУдаление локальной ветки не влияет на ветку, хранящуюся в облаке. Чтобы удалить локальную ветку, выполните команду:\r\n\r\n`git branch -d [название ветки]`\r\n\r\nДля удаления облачной ветки используйте команду:\r\n\r\n`git push [название проекта] --delete [название ветки]`",
+    "publish": "2024-04-10T11:30:08Z",
+    "created": "2024-04-10T11:33:33.350Z",
+    "updated": "2024-04-15T10:17:11.494Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One \r\n* Two \r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-04-12T09:07:24Z",
+    "created": "2024-04-12T09:09:35.439Z",
+    "updated": "2024-04-15T10:30:54.664Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 7,
+    "name": "Jon",
+    "email": "asas@mail.ru",
+    "body": "Очень полезная публикация!",
+    "created": "2024-04-11T11:19:25.163Z",
+    "updated": "2024-04-11T11:19:25.163Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 7,
+    "name": "Sara",
+    "email": "sar@mail.ru",
+    "body": "Доступное объяснение, спасибо☺️",
+    "created": "2024-04-11T11:21:22.799Z",
+    "updated": "2024-04-11T11:21:22.799Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "git",
+    "slug": "git"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "СКВ",
+    "slug": "skv"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+}
+]
